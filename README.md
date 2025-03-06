@@ -21,11 +21,9 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-STEP 1: Read the given Data
+
 ![image](https://github.com/user-attachments/assets/ad039d03-1052-463b-9cde-d1d84a3b3499)
 
-
-STEP 2: Get the information about the data
 ![image](https://github.com/user-attachments/assets/3ef1cacf-9637-4775-92d5-4eea99ef0ad2)
 
 ![image](https://github.com/user-attachments/assets/653b02b6-c815-4496-9a86-a5c76d927690)
@@ -66,4 +64,4 @@ STEP 2: Get the information about the data
 
 
 # Result
-          <<include your Result here>>
+         Therefore the Data Cleaning Process using Python is verified successfully.
